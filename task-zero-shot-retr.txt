@@ -1,0 +1,3 @@
+wds/mscoco_captions
+wds/flickr8k
+wds/flickr30k

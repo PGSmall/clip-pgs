@@ -1,0 +1,1 @@
+https://github.com/clip-pgs/CLIP-PGS/releases/download/v0.1/clip-pgs-0.3.pt

@@ -1,0 +1,17 @@
+wds/food101
+wds/cifar10
+wds/cifar100
+wds/sun397
+wds/cars
+wds/voc2007
+wds/fgvc_aircraft
+wds/dtd
+wds/pets
+wds/caltech101
+wds/flowers
+wds/stl10
+wds/eurosat
+wds/resisc45
+wds/gtsrb
+wds/country211
+wds/pcam
